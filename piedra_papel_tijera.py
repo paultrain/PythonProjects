@@ -1,4 +1,4 @@
-import random
+
 import random
 
 aleatorio = random.randrange(0, 3)
