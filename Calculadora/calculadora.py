@@ -22,3 +22,4 @@ elif simbolo == "d" or simbolo == "D":
     print(f"{num1} / {num2} =", (num1 / num2))
 else:
     print(f"No has escrito ninguna letra correcta\nS|s para sumar, R|r para restar, M|m para multiplicar o D|d para divir")
+print("Fin")
