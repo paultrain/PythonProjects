@@ -1,4 +1,4 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 def DisplayBoard(board):
 	print("+-------" * 3,"+",sep="")
